@@ -24,6 +24,7 @@ I’ve built big and small applications with Vue, from landing pages to an entir
 
 [![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](#)
 [![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)](#)
+[![Quasar](https://img.shields.io/badge/Quasar-1976d2?style=for-the-badge&logo=Quasar&logoColor=white)](#)
 [![UnoCSS](https://img.shields.io/badge/UnoCSS-333333?style=for-the-badge&logo=nuxt.js&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white)](#)
