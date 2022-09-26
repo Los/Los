@@ -17,7 +17,7 @@ I’ve built big and small applications with Vue, from landing pages to an entir
 <br><br>
 
 ![Los's GitHub stats](https://github-readme-stats.vercel.app/api?username=Los&show_icons=true&theme=tokyonight)
-<br />(this doesnt show private contributions :()
+<br /><small>this doesnt show private contributions :(</small>
 
 ### Daily basis tech:
 
