@@ -15,7 +15,7 @@ I've been using VueJS as my main framework since december/2017. I’ve built big
 
 I’ve been working for remote companies in Europe and USA since 2020 and leading frontend development for almost 1 year. I’m passionate about learning new things and making modern and clean interfaces.
 
-<br><br>
+<br>
 
 ![Los's GitHub stats](https://github-readme-stats.vercel.app/api?username=Los&show_icons=true&theme=tokyonight)
 <br>This doesnt count for private contributions :(
