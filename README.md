@@ -11,9 +11,13 @@ You can check my social here:
 ### About me:
 My first contact with programming was when I was 14, exploring the world of **online gaming**. I was very interested to start creating my own private servers to play with my friends and I ended up developing the websites for those projects and that's how I've got here today.
 
-I love to explore new possibilities and create new perspectives to see simple things. Besides I am a framework agnostic, I've been using **VueJS** as my main javascript framework since Dec/2018. It’s suitable for basically any kind of application and it's reliability is amazing.
+I've been using VueJS as my main framework since december/2017. I’ve built big and small applications with it, from landing pages for big companies, to an entire recursively automated workflow system, with drag and drop support using no library that was a key feature responsible for a $30M funding.
 
-I’ve built big and small applications with Vue, from landing pages to an entire car financing system for one of the biggest banks in Brazil, to a BI tool for an Estonian startup. I’m passionate about **learning new things** and making **modern** and **intuitive interfaces**.
+I’ve been working for remote companies in Europe and USA since 2020 and leading frontend development for almost 1 year. I’m passionate about learning new things and making modern and clean interfaces.
+
+![image](https://user-images.githubusercontent.com/4088193/192808453-5edebb67-2c4b-4e2b-a7b4-a7b91a3554e2.png)
+<br>This doesnt count for private contributions :(
+
 <br><br>
 
 ![Los's GitHub stats](https://github-readme-stats.vercel.app/api?username=Los&show_icons=true&theme=tokyonight)
